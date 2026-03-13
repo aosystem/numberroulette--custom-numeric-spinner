@@ -1,0 +1,55 @@
+name: numberroulette
+description: "numberroulette"
+
+publish_to: 'none'
+
+version: 2.7.0+46
+
+environment:
+  sdk: ^3.11.0
+
+dependencies:
+  flutter:
+    sdk: flutter
+  shared_preferences: ^2.5.2
+  flutter_localizations:
+    sdk: flutter
+  intl: ^0.20.2
+  google_mobile_ads: ^7.0.0
+  flutter_tts: ^4.0.2
+  equatable: ^2.0.7
+  collection: ^1.18.0
+  google_fonts: ^8.0.2
+  in_app_review: ^2.0.11
+
+dev_dependencies:
+  flutter_lints: ^6.0.0
+  flutter_launcher_icons: ^0.14.3
+  flutter_native_splash: ^2.3.6
+
+flutter_icons:
+  android: "launcher_icon"
+  ios: true
+  image_path: "assets/icon/icon.png"
+  adaptive_icon_background: "assets/icon/icon_back.png"
+  adaptive_icon_foreground: "assets/icon/icon_fore.png"
+
+flutter_native_splash:
+  color: '#9da9f5'
+  image: 'assets/image/splash.png'
+  color_dark: '#9da9f5'
+  image_dark: 'assets/image/splash.png'
+  fullscreen: true
+  android_12:
+    icon_background_color: '#9da9f5'
+    image: 'assets/image/splash.png'
+    icon_background_color_dark: '#9da9f5'
+    image_dark: 'assets/image/splash.png'
+
+flutter:
+  generate: true
+  uses-material-design: true
+
+  assets:
+    - assets/image/
+
