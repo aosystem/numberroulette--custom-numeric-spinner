@@ -6,6 +6,9 @@ A professional and highly customizable **Digital Number Roulette** built with **
 [![App Store](https://img.shields.io/badge/App_Store-Download-black?logo=apple&logoColor=white)](https://apps.apple.com/jp/app/id1561913872)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
+## 📺 Demo Video
+[![Watch the video](https://img.youtube.com/vi/z42fJXv64H8/0.jpg)](https://www.youtube.com/watch?v=z42fJXv64H8)
+
 ## 🌟 Key Features
 - **Custom Range Selection:** Set any numeric range (0 or greater) to fit your specific needs (e.g., 1–100, 101–150).
 - **Flexible Layouts:** Choose between Ascending, Descending, or **Random (Shuffled)** order for the roulette board.
